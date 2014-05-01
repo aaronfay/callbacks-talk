@@ -1,0 +1,8 @@
+{
+    "name": "step-example",
+    "author": "Aaron Fay <aaron.j.fay@gmail.com>",
+    "dependencies": {
+        "step": "creationix/step",
+        "pinger": "wearefractal/pinger"
+    }
+}
